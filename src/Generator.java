@@ -1,6 +1,5 @@
 import java.io.IOException;
 import java.util.Scanner;
-
 import javax.swing.JFrame;
 
 public class Generator extends JFrame {
@@ -51,7 +50,7 @@ public class Generator extends JFrame {
 	}
 
 	/**
-	 * Filles in the array of adjectives with random, different adjectives.
+	 * Fills in the array of adjectives with random, different words.
 	 * 
 	 * @param n
 	 */
