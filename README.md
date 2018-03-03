@@ -1,4 +1,4 @@
-# Character-Generotor
+# Character-Generator
 
 A program that randomly generates adjectives and 3 colours for a character design exercise. The user must provide the number of adjectives they would like to describe their character.
 
